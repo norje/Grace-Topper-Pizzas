@@ -1,4 +1,3 @@
-# Grace Topper
 React, Redux, Express, Sequelize, Stripe, Material-UI
 
 https://gracetopper.herokuapp.com/
